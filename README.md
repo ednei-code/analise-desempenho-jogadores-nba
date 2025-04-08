@@ -34,7 +34,7 @@ O conjunto de dados utilizado contém mais de duas décadas de informações sob
 - Detalhes biográficos (franquia, ano e posição no draft)
 - Estatísticas de performance (jogos disputados, médias de pontos, rebotes, assistências, etc.)
 
-Os dados foram obtidos da plataforma **Kaggle** e passaram por processos de limpeza e normalização antes da análise.
+Os dados foram obtidos da plataforma **Kaggle**https://www.kaggle.com/datasets/justinas/nba-players-data/data e passaram por processos de limpeza e normalização antes da análise.
 
 ## 📁 Estrutura do Projeto
 O projeto está organizado em dois Jupyter Notebooks principais:
